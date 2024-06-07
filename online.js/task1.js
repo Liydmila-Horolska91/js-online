@@ -109,16 +109,16 @@
 //     Перевірте, що першим символом цього рядка є літера 'a'.
 //  Якщо це так - вивести "так", у іншому випадку вивести "ні"
 
-const string = 'abcde'
-const stringSecond = 'bcde'
+//const string = 'abcde'
+//const stringSecond = 'bcde'
 
-function checkString(str) { 
-  if (str[0] === "a") {
-    return "так"
-  } else { 
-    return "ні"
-  }
-}
+//function checkString(str) { 
+  //if (str[0] === "a") {
+    //return "так"
+  //} else { 
+    //return "ні"
+ // }
+//}
 
-console.log(checkString(string));
-console.log(checkString(stringSecond));
+//console.log(checkString(string));
+//console.log(checkString(stringSecond));
